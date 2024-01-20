@@ -1,8 +1,3 @@
-#Escrever:
-#COmo pegar daasets, usar o google colab
-#Mexer no drive
-#Como criar um dataset + labels
-
 from ultralytics import YOLO
 import cv2
 import cvzone
