@@ -56,13 +56,4 @@ Each project is designed to showcase different capabilities of computer vision t
   <img src="Images/results/seceq1.png" alt="Safety Equipment Detection" width="75%">
 </p>
 
----
 
-## Installation
-
-To run these projects, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/your-github-username/your-repository-name.git
-cd your-repository-name
-pip install -r requirements.txt
